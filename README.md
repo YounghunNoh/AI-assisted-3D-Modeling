@@ -1,7 +1,7 @@
 # AI-assisted-3D-Modeling
 
 <p align="center">
-  <img src="CMP.png" width="300">
+  <img src="CMP.png" width="1000">
 </p>
 
 ## Overview
